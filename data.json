@@ -1,0 +1,22 @@
+{
+"%" : "persentbutton",
+"C" : "cbutton",
+"<<" : "backspacebutton",
+"/" : "dividebutton",
+"7" : "sevenbutton",
+"8" : "eightbutton",
+"9" : "ninebutton",
+"x" : "multiplybutton",
+"4" : "fourbutton",
+"5" : "fivebutton",
+"6" : "sixbutton",
+"-" : "minusbutton",
+"1" : "onebutton",
+"2" : "twobutton",
+"3" : "threebutton",
+"+" : "plusbutton",
+"+/-" : "plusminusbutton",
+"0" : "zerobutton",
+"." : "pointbutton",
+"=" : "resultbutton"
+} 
